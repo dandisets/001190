@@ -73,6 +73,7 @@ contributor:
   - dcite:Visualization
   schemaKey: Person
 dateCreated: '2024-09-05T14:40:30.580826+00:00'
+datePublished: '2024-10-18T16:34:10.491088+00:00'
 description: 'Data set for Tat(-) and Tat(+) male mice comparing genotype differences
   without any drug treatment
 
@@ -94,6 +95,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001190/versions/draft/assets/
 name: 'In vivo Calcium Imaging: Genotype Data: NOR'
 protocol: []
+publishedBy:
+  endDate: '2024-10-18T16:34:10.491088+00:00'
+  id: urn:uuid:de43493a-14e4-46d0-8553-2d37a517f216
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-10-18T16:34:10.491088+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:f1c046d2-d344-4daf-a3cd-e81ae4f96747
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
